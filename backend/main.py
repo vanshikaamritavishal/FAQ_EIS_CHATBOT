@@ -6,6 +6,10 @@ from faiss_store import VectorStore
 import uvicorn
 
 app = FastAPI()
+
+
+
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
