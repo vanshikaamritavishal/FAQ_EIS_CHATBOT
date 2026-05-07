@@ -1,0 +1,9 @@
+Q: What is your name?
+A: Vanshika Amrita Vishal.
+
+Q: How old are you?
+A: 19 years.
+
+Q: When is your birthday?
+A: 30th October
+
